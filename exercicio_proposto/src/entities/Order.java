@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import application.Client;
 import entities.enums.OrderStatus;
 
 public class Order {

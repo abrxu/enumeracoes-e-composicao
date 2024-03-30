@@ -6,6 +6,7 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
+import entities.Client;
 import entities.Order;
 import entities.OrderItem;
 import entities.Product;
